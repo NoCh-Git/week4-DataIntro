@@ -1,6 +1,6 @@
 # Session 4 — Intro to Data Course
 
-This repository contains the materials for **Session X** of *Course Y*.  
+This repository contains the materials for **Session 4** of *Intro to Data Course*.  
 - Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder 
 ---
